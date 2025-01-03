@@ -1,7 +1,7 @@
 # Go Logo
 
 <p align="center">
-  <img src="public/preview.png" alt="Go logo" width="600"/>
+  <img src="public/preview.PNG" alt="Go logo" width="600"/>
 </p>
 
 ## Getting Started
